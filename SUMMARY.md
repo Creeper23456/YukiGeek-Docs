@@ -18,7 +18,7 @@
 ## 工具 <a href="#tools" id="tools"></a>
 
 * [验证网关](tools/yan-zheng-wang-guan.md)
-* [ChatGPT](tools/chatgpt.md)
+* [ChatGPT 3](tools/chatgpt-3.md)
 * [New Bing](tools/new-bing.md)
 * [知网](tools/zhi-wang.md)
 * [谷歌学术](tools/gu-ge-xue-shu.md)
